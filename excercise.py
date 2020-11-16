@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 
 window = Tk()
-window.geometry("400x300")
+window.geometry("400x400")
 window.title("Register")
 # window.configure(bg="yellow")
 
